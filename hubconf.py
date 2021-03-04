@@ -1,0 +1,1 @@
+from ppcls.modeling.architectures.resnet import ResNet50
